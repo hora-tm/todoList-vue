@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "name": "Go to gym",
+      "done": true,
+      "id": 3
+    },
+    {
+      "name": "Finish Project",
+      "done": false,
+      "id": 4
+    },
+    {
+      "name": "Walk the dog",
+      "done": false,
+      "id": 5
+    },
+    {
+      "name": "Get some pizza",
+      "done": false,
+      "id": 6
+    }
+  ]
+}
